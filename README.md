@@ -26,3 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leinadpy&show_icons=true&locale=en&layout=compact" alt="leinadpy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leinadpy&show_icons=true&locale=en" alt="leinadpy" /></p>
+
+<h3 align="left">Projects:</h3>
+<p><a href="https://github.com/leinadpy/teslo-nest" target="_blank">Teslo Nest API Project</a></p>
