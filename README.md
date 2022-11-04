@@ -3,13 +3,13 @@
 
 <a href="https://app.daily.dev/leinadpy"><img src="https://github.com/leinadpy/leinadpy/blob/main/devcard.svg" width="200" alt="Daniel Ojeda's Dev Card"/></a>
 
-- 🔭 I’m currently working on [Multiproyec S.A.](www.multiproyecsa.com.py)
+- 🔭 I’m currently working on [BEU INC](https://beu.is)
 
-- 🌱 I’m currently learning **Angular, Nestjs, Typescript**
+- 🌱 I’m currently learning **Nestjs, TypeORM, Typescript**
 
-- 💬 Ask me about **React, Nodejs**
+- 💬 Ask me about **Nestjs, Nodejs, SQL**
 
-- 📫 How to reach me **devinginformatica@gmail.com**
+- 📫 How to reach me **leinadpy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
