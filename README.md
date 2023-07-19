@@ -29,3 +29,5 @@
 
 <h3 align="left">Projects:</h3>
 <p><a href="https://github.com/leinadpy/teslo-nest" target="_blank">Teslo Nest API Project</a></p>
+<p><a href="https://github.com/leinadpy/anylist" target="_blank">Anylist Nest Graphql Project</a></p>
+
