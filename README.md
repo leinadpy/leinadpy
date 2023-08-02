@@ -3,7 +3,7 @@
 
 <a href="https://app.daily.dev/leinadpy"><img src="https://github.com/leinadpy/leinadpy/blob/main/devcard.svg" width="200" alt="Daniel Ojeda's Dev Card"/></a>
 
-- 🔭 I’m currently working on [BEU INC](https://beu.is)
+- 🔭 I’m currently looking for a job.
 
 - 🌱 I’m currently learning **Nestjs, TypeORM, Typescript**
 
