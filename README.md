@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for a job.
 
-- 🌱 I’m currently learning **Nestjs, TypeORM, Typescript**
+- 🌱 I’m currently learning **Web3, Rust, Solana**
 
 - 💬 Ask me about **Nestjs, Nodejs, SQL**
 
