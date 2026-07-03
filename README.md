@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">Hi 👋, I'm Daniel Ojeda</h1>
 <h3 align="center">A passionate backend developer from Paraguay</h3>
 
 <a href="https://app.daily.dev/leinadpy"><img src="https://api.daily.dev/devcards/v2/6ivPGnOn8.png?type=default&r=yk4" width="356" alt="Daniel Ojeda's Dev Card"/></a>
